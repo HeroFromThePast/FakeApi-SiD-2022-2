@@ -4,23 +4,23 @@
       "scores":   
       [
           {
-            "userId": 1,
+            "userId": "Juan",
             "value": 5
           },
           {
-            "userId":2,
+            "userId":"Esteban",
             "value": 2
           },
           {
-            "userId":3,
+            "userId":"Miguel",
             "value": 4
           },
           {
-            "userId":4,
+            "userId":"Lucas",
             "value": 14
           },
           {
-            "userId":5,
+            "userId":"Camilo",
             "value": 10
           }
         ] 

@@ -5,23 +5,23 @@
       [
           {
             "userId": "Juan",
-            "value": 5
-          },
-          {
-            "userId":"Esteban",
-            "value": 2
-          },
-          {
-            "userId":"Miguel",
-            "value": 4
-          },
-          {
-            "userId":"Lucas",
             "value": 14
           },
           {
-            "userId":"Camilo",
+            "userId":"Esteban",
             "value": 10
+          },
+          {
+            "userId":"Miguel",
+            "value": 7
+          },
+          {
+            "userId":"Lucas",
+            "value": 5
+          },
+          {
+            "userId":"Camilo",
+            "value": 4
           }
         ] 
   }

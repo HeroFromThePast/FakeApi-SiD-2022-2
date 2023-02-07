@@ -1,31 +1,9 @@
 {
-  "leaders": 
+  "Users":[ 
   {
-      "scores":   
-      [
-          {
-            "userId": "Juan",
-            "value": 14
-          },
-          {
-            "userId":"Esteban",
-            "value": 10
-          },
-          {
-            "userId":"Miguel",
-            "value": 7
-          },
-          {
-            "userId":"Lucas",
-            "value": 5
-          },
-          {
-            "userId":"Camilo",
-            "value": 4
-          }
-        ] 
-  }
-}
-    
-
-    
+    "id": 1,
+    "name": "pipo",
+    "deck": [1,2,3,4,5]
+  }, 
+ ]
+}     
